@@ -617,12 +617,14 @@ footer #copy-right{
     header nav .logo p{
         margin-left: -70px;
     }
-    header nav ul{
+    header nav ul,
+    #nav-btn{
         display: none;
     }
     header nav .menu{
         display: block;
     }
+    main .product,
     main #services,
     main #other,
     main #contact,
